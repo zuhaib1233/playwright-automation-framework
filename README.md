@@ -1,4 +1,4 @@
-# Empty Playwright + TypeScript Framework
+#Playwright + TypeScript Framework
 
 This ZIP contains the reusable framework structure and configuration only.
 It intentionally contains **no sample tests, no demo test cases, and no application-specific locators**.
